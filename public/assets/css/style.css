@@ -1,0 +1,16 @@
+footer {
+    background-color: #353a3f;
+    color: white;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    text-align: center;
+    padding: 17px;
+}
+
+.titulo {
+    padding: 50px;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+}
